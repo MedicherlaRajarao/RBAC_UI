@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "role": "Admin",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Editor User",
+    "role": "Editor",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Viewer User",
+    "role": "Viewer",
+    "status": "Inactive"
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 4
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 5
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 6
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 7
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 8
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 9
+  },
+  {
+    "name": "New User",
+    "role": "Manager",
+    "id": 10
+  },
+  {
+    "id": 11,
+    "name": "sai",
+    "role": "Editor",
+    "email": "sai@gmail.com",
+    "phone": "09908136224"
+  }
+]

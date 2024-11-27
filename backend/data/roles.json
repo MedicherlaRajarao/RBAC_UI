@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "permissions": [
+      {
+        "0": "r",
+        "1": "e",
+        "2": "a",
+        "3": "d",
+        "actions": {
+          "read": true,
+          "write": true,
+          "delete": false
+        }
+      },
+      {
+        "0": "w",
+        "1": "r",
+        "2": "i",
+        "3": "t",
+        "4": "e",
+        "actions": {
+          "read": true,
+          "write": true,
+          "delete": false
+        }
+      },
+      {
+        "0": "d",
+        "1": "e",
+        "2": "l",
+        "3": "e",
+        "4": "t",
+        "5": "e",
+        "actions": {
+          "read": true,
+          "write": true,
+          "delete": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Editor",
+    "permissions": [
+      {
+        "actions": {
+          "read": false,
+          "write": true,
+          "delete": true
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Viewer",
+    "permissions": []
+  },
+  {
+    "name": "4 admin1 read",
+    "permissions": [],
+    "id": 4
+  }
+]
